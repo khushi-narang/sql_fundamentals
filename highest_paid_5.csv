@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,commission_pct,manager_id,department_id
+100,Steven,King,SKING,515.123.4567,1987-06-17,AD_PRES,24000,NULL,NULL,90
+101,Neena,Kochhar,NKOCHHAR,515.123.4568,1989-09-21,AD_VP,17000,NULL,100,90
+102,Lex,"De Haan",LDEHAAN,515.123.4569,1993-01-13,AD_VP,17000,NULL,100,90
+145,John,Russell,JRUSSEL,011.44.1344.429268,1996-10-01,SA_MAN,14000,0.4,100,80
+146,Karen,Partners,KPARTNER,011.44.1344.467268,1997-01-05,SA_MAN,13500,0.3,100,80

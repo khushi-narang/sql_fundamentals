@@ -1,0 +1,2 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,commission_pct,manager_id,department_id
+158,Allan,McEwen,AMCEWEN,011.44.1345.829268,1996-08-01,SA_REP,9000,0.35,146,80
