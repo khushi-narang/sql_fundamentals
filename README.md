@@ -1,4 +1,4 @@
-# sql_fundamentals
+# SQL Fundamentals
 This project involves solving a series of SQL queries using the "hr" database. The goal is to practice and enhance SQL skills by retrieving various types of data from the database. 
 ## Questions
 ### Fundamentals of Structured Query Language - 1 
